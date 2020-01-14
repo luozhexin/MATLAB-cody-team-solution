@@ -4,8 +4,8 @@
 
  %Input  n = 3
  %Output a = [ 1 2 3
-              6 5 4
-              7 8 9 ]
+ %             6 5 4
+  %            7 8 9 ]
  %Input  n = 4
  %Output a = [ 1     2     3     4
   %            8     7     6     5
